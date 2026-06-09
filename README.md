@@ -27,4 +27,4 @@ I should spend more time to learn how to use all of them.
 
 这是 lloDvDavid 22岁时的照片 📷
 
-![lloDvDavid 22岁照片](./images/lloDvDavid-22.jpg)
+![lloDvDavid 22岁照片](./images/照片图片_2025-10-23_022050_393.jpg)
